@@ -1,8 +1,8 @@
-# Welcome to [Your Business Name]'s GitHub 👋
+# Welcome to LegendArt's GitHub 👋
 
 Hi there! We're glad you're here.
 
-This is the official GitHub for **[Your Business Name]**, where we share our projects, tools, and ideas with the community. Whether you're a developer, designer, customer, or just curious, we invite you to take a look around.
+This is the official GitHub for **LegendArt**, where we share our projects, tools, and ideas with the community. Whether you're a developer, designer, customer, or just curious, we invite you to take a look around.
 
 ---
 
@@ -39,8 +39,8 @@ Please check out our [contributing guidelines](CONTRIBUTING.md) (if available) t
 
 ## 📫 Get in Touch
 
-Want to reach out directly? You can contact us at: [your-email@example.com]  
-Or visit our website: [https://yourbusinesswebsite.com](https://yourbusinesswebsite.com)
+Want to reach out directly? You can contact us at: [info@legendartcraft.com]  
+Or visit our website: [https://legendartcraft.com](https://legendartcraft.com)
 
 ---
 
